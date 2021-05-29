@@ -1,0 +1,143 @@
+1. Husets Pizza
+Med tomatsauce, ost, rejer og tun.
+
+2. Vesuvio
+Med tomatsauce, ost og skinke.
+
+3. Napoli
+Med tomatsauce, ost, skinke og cocktailpølser.
+
+4. Popeye
+Med tomatsauce, ost, spinat, hakket oksekød, æg og hvidløg.
+
+5. Hawaii
+Med tomatsauce, ost, skinke og ananas.
+
+6. Capricciosa
+Med tomatsauce, ost, skinke og champignon.
+
+7. Marmaris
+Med tomatsauce, ost, pepperoni, artiskok, paprika, oliven og chili.
+
+10. Lazio
+Med tomatsauce, ost, pepperoni, pølser, grøn peber, løg og jalapenos.
+
+11. Italiana
+Med tomatsauce, ost, kødsauce og løg.
+
+12. Vegetariana
+Med tomatsauce, ost, champignon, løg, asparges, ananas og paprika.
+
+13. Quatro Stagioni
+Med tomatsauce, ost, skinke, champignon, rejer og artiskok.
+
+14. Margherita
+Med tomatsauce og ost.
+
+15. Torino
+Med tomatsauce, ost, kebab, pepperoni og chili.
+
+16. Kylling Pesto
+Med tomatsauce, ost, kylling, spinat og pesto.
+
+18. Larnaka
+Med tomatsauce, ost, rejer, løg, chili, pepperoni og cocktailpølser.
+
+19. Atlantika
+Med tomatsauce, ost, skinke og bacon.
+
+20. Mamma Mia
+Med tomatsauce, ost, champignon, gorgonzola og løg.
+
+21. Samos
+Med tomatsauce, ost, bacon, pepperoni, grøn peber, chili og hvidløg.
+
+23. Marina
+Med tomatsauce, ost, bacon, kebab, æg, chili og hvidløg.
+
+24. Oriental
+Med tomatsauce, ost, hakket oksekød og chili.
+
+25. O Solo Mio
+Med tomatsauce, ost, skinke og pepperoni.
+
+26. Milan
+Med tomatsauce, ost, kylling, løg, cocktailpølser og hakket oksekød.
+
+27. Purunto
+Med tomatsauce, ost, bacon, æg og løg.
+
+28. Mørkhøj Special
+Med tomatsauce, ost, kebab, cocktailpølser, oliven, jalapenos og hvidløg.
+
+29. Figo
+Med tomatsauce, ost, rucola, pesto og kebab.
+
+30. TV Byens Special
+Med tomatsauce, ost, kebab, champignon og løg.
+
+31. Fantasia
+Med tomatsauce, ost, spinat, gorgonzola og hvidløg.
+
+32. Neptun
+Med tomatsauce, ost, champignon, gorgonzola og pepperoni.
+
+33. Keiron
+Med tomatsauce, ost, pepperoni. løg, hakket oksekød og chili.
+
+35. Rucola
+Med tomatsauce, ost, parmaskinke, rucola og pesto.
+
+36. Kartoffel
+Med tomatsauce, ost, kartoffel, frisk tomat, hakket oksekød og pesto.
+
+37. Roma
+Med tomatsauce, ost, skinke, bacon og pepperoni.
+
+38. Camaria
+Med tomatsauce, ost, kebab, gorgonzola og champignon.
+
+40. Mix
+Med tomatsauce, ost, pepperoni, cocktailpølser, bacon, kebab, hakket oksekød, chili og hvidløg.
+
+41. Parma
+Med tomatsauce, ost, lufttørret skinke og gorgonzola.
+
+42. Mars
+Med tomatsauce, ost, skinke og kødsauce.
+
+43. Juventus
+Med tomatsauce, ost, kødstrimler, bacon, grøn peber og hvidløg.
+
+44. Ajax
+Med tomatsauce, ost, løg, kylling, bacon og grøn peber.
+
+45. Boston
+Med tomatsauce, ost, kebab, salat og dressing.
+
+46. Paris
+Med tomatsauce, ost, hakket oksekød, pepperoni, cocktailpølser, rucola og pesto.
+
+47. Izmir
+Med tomatsauce, ost, hakket oksekød, løg, gorgonzola og grøn peber.
+
+48. Merhaba
+Med tomatsauce, ost, artiskok, løg, grøn peber, lufttørret skinke og hvidløg.
+
+51. Salat Pizza Skinke
+Med tomatsauce, ost, skinke, salat og dressing.
+
+52. Pepperoni
+Med tomatsauce, ost og pepperoni.
+
+53. AB
+Med tomatsauce, ost, kødstrimler, kødboller, bearnaisesauce og chili.
+
+54. Pineapple
+Med tomatsauce, ost, pepperoni og ananas.
+
+55. Pollo
+Med tomatsauce, ost, kylling, pepperoni og bacon.
+
+56. Patata
+Med tomatsauce, ost, kylling, kartoffel og hvidløg.
